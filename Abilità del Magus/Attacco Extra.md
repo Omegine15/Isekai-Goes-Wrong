@@ -1,0 +1,1 @@
+A partire dal 5° livello, **puoi attaccare due volte**, invece di una sola volta, ogni volta che effettui l’azione di Attacco durante il tuo turno. Inoltre, **puoi lanciare** uno dei tuoi **trucchetti** da Magus al posto di uno degli attacchi.

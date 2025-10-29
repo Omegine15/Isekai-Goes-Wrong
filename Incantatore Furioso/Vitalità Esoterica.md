@@ -1,0 +1,2 @@
+Sempre al 7° livello, **quando entri in Furia Arcana** **guadagni punti ferita temporanei pari a 1d6 + il tuo livello da Magus**. I punti ferita temporanei durano fino al termine della tua Furia Arcana. 
+Inoltre, mentre sei in Furia Arcana, **quando subisci del danno, puoi usare tua reazione per consumare uno slot incantesimo e ridurre il danno di 1d8 per ogni livello di slot incantesimo + il tuo modificatore di intelligenza.**

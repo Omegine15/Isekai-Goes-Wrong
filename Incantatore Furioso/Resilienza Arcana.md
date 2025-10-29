@@ -1,0 +1,3 @@
+Al 15° livello, la tua maestria arcana può mantenerti in combattimento nonostante ferite gravi.
+S**e scendi a 0 punti ferita mentre la tua [[Furia Arcana (Descrizione)]] è attiva e non muori sul colpo**, **puoi consumare uno slot incantesimo per recuperare punti ferita** pari al livello dello **slot incantesimo + il tuo livello da Magus.**
+Una volta usato questo privilegio, devi completare un riposo breve o lungo prima di poterla usare di nuovo

@@ -1,0 +1,1 @@
+Sempre al 2° livello, hai imparato a sfruttare il tuo codex mentale per recuperare parte della tua energia magica. Quando completi un **riposo breve**, puoi **recuperare uno slot incantesimo speso** a tua scelta. Una volta utilizzata questa caratteristica, non puoi **farlo di nuovo fino a quando non completi un Riposo Lungo**

@@ -1,0 +1,3 @@
+A partire dal 9° livello, acquisisci la capacità di percepire le forze magiche e vedere entità invisibili.
+
+Come azione, puoi risvegliare i tuoi sensi alla presenza della magia entro 9 metri, come se avessi lanciato **individuazione del magico**. Mentre questo senso è attivo, **puoi toccare un oggetto per ottenere informazioni su di esso come se avessi lanciato identificare**. Inoltre, **puoi vedere creature e oggetti invisibili entro 9 metri**. Questo senso speciale **richiede la tua concentrazione e dura per 1 minuto**. Una volta utilizzata questa caratteristica, devi completare un **riposo lungo** prima di poterla usare di nuovo.

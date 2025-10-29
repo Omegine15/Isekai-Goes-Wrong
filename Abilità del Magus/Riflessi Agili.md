@@ -1,0 +1,2 @@
+Al 6° livello, hai affinato la tua abilità di evitare rapidamente i pericoli.
+Ottien**i competenza nei tiri salvezza su Destrezza**. Se possiedi già questa competenza, ottieni invece competenza nei tiri salvezza su Forza. Inoltre, puoi lanciare i tuoi incantesimi in battaglia e evitare i loro effetti; diventi immune agli effetti di qualsiasi incantesimo da Magus che lanci, a meno che tu non desideri essere influenzato.

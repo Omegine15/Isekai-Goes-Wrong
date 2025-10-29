@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"c4ce1dba56bf89b7","type":"text","text":"","x":-545,"y":-410,"width":250,"height":60},
+		{"id":"f68d0a012b0e4eda","type":"file","file":"Passive.md","x":-640,"y":-1200,"width":400,"height":1640,"color":"6"},
+		{"id":"891e8fe7f634272d","type":"file","file":"Abilità del Magus/CI Disponibili.md","x":-1500,"y":-505,"width":260,"height":265,"color":"3"},
+		{"id":"fc4a61e059832831","type":"file","file":"Azioni Bonus possibili.md","x":-1140,"y":-840,"width":400,"height":1120,"color":"5"},
+		{"id":"f978ff7990f7e4f2","type":"file","file":"Spell Slot.md","x":-1460,"y":-140,"width":200,"height":360,"color":"#00e1ff"},
+		{"id":"1db0a2b17d56e9b7","type":"file","file":"Furia Arcana.md","x":-160,"y":-1060,"width":380,"height":1305,"color":"1"},
+		{"id":"135a32c0c61d9d60","type":"file","file":"Abilità del Magus/Colpo Incantato.md","x":260,"y":-900,"width":400,"height":1040,"color":"4"}
+	],
+	"edges":[
+		{"id":"399c8dfb6eaadac8","fromNode":"1db0a2b17d56e9b7","fromSide":"right","toNode":"135a32c0c61d9d60","toSide":"left"}
+	]
+}

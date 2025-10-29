@@ -1,0 +1,4 @@
+ partire dal 7° livello, puoi canalizzare la tua energia degli incantesimi in attacchi devastanti. 
+**Mentre sei in** **[[Furia Arcana]]**, una volta per round, **quando colpisci una creatura con un attacco con un’arma da mischia**, come **azione bonus**, **puoi spendere uno slot incantesimo per infliggere danni aggiuntivi al bersaglio**. 
+**I danni extra sono pari a 1d6 per uno slot incantesimo di 1° livello, più 1d6 per ogni livello di incantesimo superiore al 1°, fino a un massimo di 5d6**. 
+Se l’incantesimo consumato ha un tipo di danno specificato nella sua descrizione, **il tipo di danno di questa caratteristica corrisponde al tipo di danno dell’incantesimo consumato**; altrimenti, il danno aggiuntivo **è danno da forza**.

@@ -1,0 +1,3 @@
+A partire dal 2° livello, la tua padronanza di abilità fisiche e magiche ti consente di reagire con una velocità straordinaria. 
+
+In ciascuno dei tuoi turni in combattimento, **puoi usare un’azione bonus** per compiere **l’azione Scatto o Disimpegno**, o per **ottenere vantaggio al tuo prossimo tiro salvezza di Costituzione** che fai **per mantenere la concentrazione su un incantesimo** quando subisci danni, fino l’inizio del tuo prossimo turno
